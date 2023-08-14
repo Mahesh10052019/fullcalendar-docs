@@ -26,7 +26,9 @@ $('#calendar').fullCalendar({
     { id: 'a', title: 'Room A' },
     { id: 'b', title: 'Room B' },
     { id: 'c', title: 'Room C' },
-    { id: 'd', title: 'Room D' }
+    { id: 'd', title: 'Room D' },
+    { id: 'e', title: 'Room E' },
+    { id: 'f', title: 'Room F' },
   ]
 });
 ```
